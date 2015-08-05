@@ -1,2 +1,15 @@
-# emailworker_rabbitmq
-Send the email if the server received the message from rabbitmq
+#emailworker_rabbitmq
+
+Worker server using rabbitMQ for messaging
+
+### Installation
+
+- Install [RabitMQ Server](https://www.rabbitmq.com/download.html)
+- Run `npm install`
+- Run `npm start` to start server
+
+### Features
+- Using `mailgun` service
+
+
+
